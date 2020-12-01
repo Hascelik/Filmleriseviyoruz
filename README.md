@@ -1,2 +1,2 @@
 # Filmleriseviyoruz         
-başarısız olan web sitemiz
+Film Eleştirmek Üzerine Olan Başarızıs Olmuş Blog Sitemiz...
